@@ -1,0 +1,48 @@
+
+--- Chat started: 2026-09-16 08:37:17 ---
+You: my name is Devansh
+Nova: Nice to meet you, Devansh! I'll remember your name during this chat.
+You: hello
+Nova: Hello, Devansh! How can I help you today?
+You: what is my name
+Nova: Your name is Devansh.
+You: tell me a joke
+Nova: Why do Python programmers wear glasses? Because they can't C!
+You: what time is it
+Nova: The current time is 08:37 AM.
+You: bye
+Nova: It was nice chatting with you. Goodbye, Devansh!
+
+--- Chat started: 2026-09-16 08:39:30 ---
+You: how old am i
+Nova: I don't know your age yet, but age is just a number!
+You: what is quantum physics
+Nova: I'm still learning that topic. Type 'help' to see what I can do.
+You: bye
+Nova: It was nice chatting with you. Goodbye!
+
+--- Chat started: 2026-09-16 08:40:37 ---
+You: help
+Nova: I can greet you, remember your name, answer simple questions, tell you the date or time, and save this chat. Try asking 'Who are you?' or say 'bye' to exit.
+You: what is my name
+Nova: I don't know your name yet. Try: 'My name is Alex'.
+You: my name is devansh vats
+Nova: Nice to meet you, Devansh! I'll remember your name during this chat.
+You: what is my name
+Nova: Your name is Devansh.
+You: how old am i
+Nova: I don't know your age yet, but age is just a number!
+You: i am 20 years old
+Nova: I'm still learning that topic. Type 'help' to see what I can do.
+You: who are you
+Nova: I'm Nova, a rule-based Python chatbot created for this project.
+You: what can you do
+Nova: I can greet you, remember your name, answer simple questions, tell you the date or time, and save this chat. Try asking 'Who are you?' or say 'bye' to exit.
+You: what is the date and time
+Nova: The current time is 08:40 AM.
+You: bye
+Nova: It was nice chatting with you. Goodbye, Devansh!
+
+--- Chat started: 2026-09-16 08:49:08 ---
+You: bye
+Nova: It was nice chatting with you. Goodbye!
